@@ -11,7 +11,7 @@ import SwiftUI
 struct DownloadingImagesAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DownloadingImagesBootcamp()
         }
     }
 }
